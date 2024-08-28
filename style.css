@@ -32,7 +32,7 @@ body{
         font-weight: normal;
     }
     body{
-        width: 430px;
+        width: 480px;
     }
     .nav-texts{
         position: relative;
@@ -51,6 +51,7 @@ body{
     }
     .cups-container{
         display: block;
+        justify-content: center;
     }
     .cup-background{
         background-image: url('pexels-samerdaboul-2102818.jpg');
