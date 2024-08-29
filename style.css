@@ -1,12 +1,13 @@
 .header-container{
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels-pixabay-261434.jpg");
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        height: 600px;
+background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels-pixabay-261434.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
 }
+
 .nav-texts{
-    /* margin-top: -340px; */   
+    /* margin-top: -340px; */
 }
 body{
     background-color: aliceblue;
@@ -32,7 +33,7 @@ body{
         font-weight: normal;
     }
     body{
-        width: 480px;
+        width: 430px;
     }
     .nav-texts{
         position: relative;
